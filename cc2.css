@@ -1,0 +1,36 @@
+html{
+    box-sizing: border-box;
+}  
+.main-content{
+    border-radius:15px;
+    margin:100px auto;
+    width:80vw;
+    max-width :310px;
+    height:auto;
+    background:white;
+    padding:0.9rem;
+}
+body{
+    background: hsl(220, 60%, 89%);
+    font-family:"Outfit" ,Tahoma;
+}
+#img{
+    width:100%;
+    border-radius: 10px;
+}
+p{
+    text-align: center;
+}
+#top{
+    font-weight:700;
+    padding:0 1.4rem 0 1.4rem;
+    font-size:20px;
+    /* background:blue; */
+}
+#below{
+    font-weight: 400;
+    margin:0 1.8rem;
+    color:grey;
+    padding-bottom: 1rem;
+    /* background:red; */
+}
